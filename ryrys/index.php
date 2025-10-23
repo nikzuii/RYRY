@@ -25,7 +25,7 @@
         <img src="images/user.png" alt="User Login Logo"  class="user-image">
       </div>
       <h2>USER LOGIN</h2>
-      <p class="welcome-message">Welcome back! Time for your perfect blend. Let's start the day. ☕︎</p>
+      <p class="welcome-message">Welcome back Time for your perfect blend. Let's start the day. ☕︎</p>
       
       
       <form method="POST" action="login.php">
